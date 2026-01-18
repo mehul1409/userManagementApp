@@ -1,3 +1,3 @@
 # userManagementApp
 
-local storage (array,string) user management in go lang 
+user management in go lang using mongodb 
